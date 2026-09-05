@@ -1,0 +1,310 @@
+3D Printed Bionic Arm;https://doi.org/10.1109/ICCDW45521.2020.9318631;Excluded (2)
+A 0.00179 mm(2)/Ch Chopper-Stabilized TDMA Neural Recording System With Dynamic EOV Cancellation and Predictive Mixed-Signal Impedance Boosting;https://doi.org/10.1109/tbcas.2024.3366649;Excluded (1)
+A 0.67 $\mu$V-IIRN super-T $\Omega$-Z (IN) 17.5 $\mu$W/Ch Active Electrode With In-Channel Boosted CMRR for Distributed EEG Monitoring;https://doi.org/10.1109/tbcas.2023.3301554;Excluded (2)
+A 10.13$\mu$J/Classification 2-Channel Deep Neural Network Based SoC for Negative Emotion Outburst Detection of Autistic Children;https://doi.org/10.1109/tbcas.2021.3113613;Excluded (2)
+A $1.2\ \mu \mathrm{W},\ 1.7\ \mu V_{rms}$ ECG Acquisition IC with Low-Noise Amplifier and Full-Digital Heartbeat Detector;https://doi.org/10.1109/apccas51387.2021.9687755;Excluded (2)
+A 1.83 $\mu$J/Classification, 8-Channel, Patient-Specific Epileptic Seizure Classification SoC Using a Non-Linear Support Vector Machine;https://doi.org/10.1109/tbcas.2014.2386891;Excluded (2)
+A 44$\mu$W Two-Electrode ECG Acquisition ASIC With Hybrid Motion Artifact Removal and Power-Efficient R-Peak Detection;https://doi.org/10.1109/tbcas.2025.3556256;Excluded (2)
+A 450 mV Tunable Low-Frequency OTA-C Third-Order Elliptic Low-Pass Filter for Bio-Signal Applications;https://doi.org/10.1109/access.2025.3544735;Excluded (2)
+A Battery-Less Portable ECG Monitoring System With Wired Audio Transmission;https://doi.org/10.1109/tbcas.2019.2923423;Excluded (2)
+Abdominal Signals: Denoising by Application of the Event Synchronous Canceller;https://doi.org/10.1109/iembs.2007.4352353;Excluded (1)
+Abnormal signal-averaged electrocardiograms in patients with incomplete right bundle-branch block;https://doi.org/10.1002/clc.4960200106;Excluded (2)
+Accuracy Improved Muscle Onset and Termination Detection in EMG Signal Processing Using STKEO;https://doi.org/10.1109/icst59744.2023.10460860;Excluded (2)
+A compact electroencephalogram recording device with integrated audio stimulation system;https://doi.org/10.1063/1.3436634;Included
+A Compact Sub-$\mu$W CMOS ECG Amplifier With 57.5-M$\Omega$ Zin, 2.02 NEF, 8.16 PEF and 83.24-dB CMRR;https://doi.org/10.1109/tbcas.2021.3086182;Excluded (2)
+A Comparative Analysis of Denoising PCG Signals using Adaptive Wiener-Kalman Filtering;https://doi.org/10.1109/csitss64042.2024.10816866;Excluded (1)
+Adaptive data compression of ambulatory ECG using multi templates;https://doi.org/10.1109/cic.1993.378395;Excluded (2)
+A Dynamically Reconfigurable ECG Analog Front-End With a 2.5$\times$ Data-Dependent Power Reduction;https://doi.org/10.1109/tbcas.2021.3114415;Excluded (2)
+Afferent and efferent activity control in the design of brain computer interfaces for motor rehabilitation;https://doi.org/10.1109/iembs.2011.6091705;Included
+A firing rate independent threshold estimation for neuronal spike detection methods;https://doi.org/10.1109/biocas54905.2022.9948694;Excluded (1)
+Age-related changed in EEG power spectra in infants during sevoflurane wash-out;https://doi.org/10.1093/bja/aet409;Included
+A homecare in-bed hardware system for precise real-time ECG and HRV monitoring with layered clothing;https://doi.org/10.1016/j.bios.2025.117838;Excluded (2)
+A joint application of optimal threshold based discrete cosine transform and ASCII encoding for ECG data compression with its inherent encryption;https://doi.org/10.1007/s13246-016-0476-4;Excluded (2)
+A Low-Noise, Low-Power Amplifier With Current-Reused OTA for ECG Recordings;https://doi.org/10.1109/tbcas.2018.2819207;Excluded (2)
+A Low-power and Low-noise Multi-purpose Chopper Amplifier with High CMRR and PSRR;https://doi.org/10.1109/embc44109.2020.9176224;Excluded (2)
+A Low-Power Current-Reuse Analog Front-End for High-Density Neural Recording Implants;https://doi.org/10.1109/tbcas.2018.2805278;Excluded (2)
+A Low-Power Low-Noise Current-Feedback Instrumentation Amplified based on gm boosted OTA for ECG Acquisition;https://doi.org/10.1109/spin57001.2023.10116211;Excluded (2)
+A low-power self-biased neural amplifier for implantable EEG recording system ICs;https://doi.org/10.1109/iembs.2010.5626686;Excluded (2)
+A machine learning approach for automated wide-range frequency tagging analysis in embedded neuromonitoring systems;https://doi.org/10.1016/j.ymeth.2017.06.019;Excluded (2)
+A MATLAB-based graphical user interface for the identification of muscular activations from surface electromyography signals;https://doi.org/10.1109/embc.2016.7591518;Excluded (2)
+A method for better positioning bipolar electrodes for lower limb EMG recordings during dynamic contractions;https://doi.org/10.1016/j.jneumeth.2009.02.017;Included
+A method for remocing imaging artifact from continuous EEG recorded during functional MRI;https://doi.org/10.1006/nimg.2000.0599;Excluded (2)
+A Micropower Chopper CBIA Using DSL-Embedded Input Stage With 0.4V EO Tolerance for Dry-Electrode Biopotential Recording;https://doi.org/10.1109/tbcas.2023.3265273;Excluded (2)
+A model for removing transcranial current stimulation artifacts in concurrently measured EEG;https://doi.org/10.1109/spmb.2015.7405457;Included
+A Modular, Smart, and Wearable System for High Density sEMG Detection;https://doi.org/10.1109/tbme.2019.2904398;Included
+An Algorithm for Heart Rate Extraction From Acoustic Recordings at the Neck;https://doi.org/10.1109/tbme.2018.2836187;Excluded (1)
+An algorithm study for FES evoked artifacts removal based on the combination of CEEMDAN and GS;https://doi.org/10.1109/embc53108.2024.10782513;Included
+Analog to Digital Converter Using Delta Sigma loop for the application portble ECG Device;https://doi.org/10.1109/icraie.2014.6909161;Excluded (2)
+Analysis of QRS shape variability and short-term heart rate variability of CAD patients;https://doi.org/10.1109/cic.1998.731820;Excluded (2)
+Analysis of raw microneurographic recording based on wavelet de-noising technique and classification algorithm: wavelet analysis in microneurography;https://doi.org/10.1109/tbme.2002.807323;Excluded (1)
+An automatic pre-processing method to detect and reject signal artifacts from full-shift field-work sEMG recordings of bilateral trapezius activity;https://doi.org/10.1016/j.jelekin.2019.03.009;Excluded (2)
+An Edge-Modalized Visual Stimulation Paradigm for SSVEP-Based Brain-Computer Interface;https://doi.org/10.1109/cisp-bmei64163.2024.10906156;Excluded (2)
+An EEMD-PCA approach to extract heart rate, respirator rate and respiratory activity from PPG signal;https://doi.org/10.1109/embc.2016.7591560;Excluded (1)
+An Efficient sEMG Signal Acquisition System for Decoding of Hand Movements;https://doi.org/10.1109/tensymp61132.2024.10752240;Excluded (2)
+A Neural Recording System with 16 Reconfigurable Front-end Channels and Memristive Processing/Memory Unit;https://doi.org/10.1109/newcas57931.2023.10198082;Included
+A Neuromorphic Event-Based Neural Recording System for Smart Brain-Machine-Interfaces;https://doi.org/10.1109/tbcas.2015.2479256;Excluded (1)
+A new alignment method based on the wavelet multi-scale cross-correlation for noisy high resolution ECG records;https://doi.org/10.1109/iembs.2001.1017179;Excluded (2)
+A new digital signal processing technique for the estimation of motor unit action potential templates;https://doi.org/10.1109/icces.2009.5383206;Excluded (2)
+A new method for semiautomatic analysis of surface EMG in patients with oral parafunctions;https://doi.org/10.1179/crn.2004.029;Excluded (2)
+An improved algorithm for electrohysterogram envelope extraction;https://doi.org/10.7507/1001-5515.201605025;Included
+An innovative adaptive filtering technique for electromyography (EMG) signals influenced by spinal cord transcutaneous stimulation;https://doi.org/10.1109/icaccm61117.2024.11059153;Included
+A Novel Algorithm for EMG Signal Processing and Muscle Timing Measurement;https://doi.org/10.1109/tim.2015.2434097;Excluded (2)
+A novel approach for the removal of artifacts in EEG signals;https://doi.org/10.1109/wispnet.2017.8300232;Excluded (2)
+A Novel Framework for Real-Time ECG and Blood Pressure Signal Analysis: Enhancing Accuracy and Interaction through Dynamic Quality Evaluation;https://doi.org/10.1109/embc58623.2025.11254045;Excluded (2)
+A novel method for calibrating head models to account for variability in conductivity and its evaluation in a sphere model;https://doi.org/10.1088/1361-6560/abc5aa;Excluded (1)
+A Novel Water Proof Prosthetic Hand Based on Conductive Silicon sEMG Sensors;https://doi.org/10.1109/rcar49640.2020.9303310;Excluded (2)
+Application of multiscale principal component analysis (MSPCA) for enhancement of ECG signals;https://doi.org/10.1109/imtc.2011.5944301;Excluded (2)
+A practical electrode-array myoprocessor for surface electromyography;https://doi.org/10.1109/10.16479;Excluded (2)
+A precision ECG signal generator providing full Lead II QRS amplitude variability and an accurate timing profile;https://doi.org/10.1109/iembs.2009.5332843;Excluded (2)
+A Real-Time EMG-Based Fixed-Bandwidth Frequency-Domain Embedded System for Robotic Hand;https://doi.org/10.3389/fnbot.2022.880073;Included
+A Review of Techniques for Surface Electromyography Signal Quality Analysis;https://doi.org/10.1109/rbme.2022.3164797;Excluded (2)
+A Robust VMD-PCA Integrated Approach for Accurate Respiration Parameter Estimation From PPG;https://doi.org/10.1109/les.2025.3528415;Excluded (1)
+Artifact Removal in Electrocorticography Devices With Cardiac Contamination;https://doi.org/10.1109/tnsre.2025.3601445;Excluded (1)
+ASIC Implementation of the cross frequency coupling algorithm for EEG signal processing;https://doi.org/10.1109/isicir.2014.7029468;Excluded (2)
+A simple method for detection and classification of ECG noises for wearable ECG monitoring devices;https://doi.org/10.1109/spin.2015.7095425;Included
+A single channel-single trial P300 detection algorithm;https://doi.org/10.1109/iraniancee.2013.6599576;Excluded (1)
+A Smart Textile Electrode Belt for ECG Recordings - A Pilot Study with Indian Population;https://doi.org/10.1109/icspc46172.2019.8976815;Included
+Assessment of post-cardiac-arrest somatosensory evoked potential in rats;https://doi.org/10.1109/ner.2009.5109370;Included
+A study on discrete wavelet-based noise removal from EEG signals;https://doi.org/10.1007/978-1-4419-5913-3_65;Excluded (2)
+A TDM-Based 16-Channel AFE ASIC With Enhanced System-Level CMRR for Wearable EEG Recording With Dry Electrodes;https://doi.org/10.1109/tbcas.2020.2979931;Excluded (2)
+A technique to evaluate the performance of computerized ECG analysis systems;No se encontró el DOI. PMID: 3694104 ;Excluded (2)
+Automated Classification and Removal of EEG Artifacts With SVM and Wavelet-ICA;https://doi.org/10.1109/jbhi.2017.2723420;Included
+Automated detection and correction of eye blink and muscular artefacts in EEG signal for analysis of Autism Spectrum Disorder;https://doi.org/10.1109/embc.2014.6943977;Included
+Automatic detection and removal of muscle artifacts from scalp EEG recordings in patients with epilepsy;https://doi.org/10.1109/embc.2015.7318765;Excluded (2)
+Automatic Detection of Epileptic Spikes in the Long Term Electroencephalogram Using Wavelet Transform;https://doi.org/10.1109/iccima.2007.169;Excluded (2)
+A Versatile and Wireless Multichannel Capacitive EMG Measurement System for Digital Healthcare;https://doi.org/10.1109/jiot.2024.3370960;Excluded (2)
+A Wavelet-Statistical Features Approach for Nonconvulsive Seizure Detection;https://doi.org/10.1177/1550059414535465;Excluded (2)
+A Wirelessly Powered Scattered Neural Recording Wearable System;https://doi.org/10.1109/tbcas.2024.3397669;Excluded (2)
+A Wireless Miniature Injectable Device With Memory-Assisted Backscatter for Multimodal Animal Physiological Monitoring;https://doi.org/10.1109/tbme.2024.3482983;Excluded (2)
+Band-tunable and multiplexed integrated circuits for simultaneous recording and stimulation with microelectrode arrays;https://doi.org/10.1109/tbme.2005.847540;Excluded (1)
+Baseline wander removal from ECG signal using State Space Recursive Least Squares (SSRLS) adaptive filter;https://doi.org/10.1109/icrai.2016.7791229;Included
+Bayesian estimates of error bounds for EEG source imaging;https://doi.org/10.1109/42.746725;Excluded (2)
+Biomedical signal acquisition with streaming wireless communication for recording evoked potentials;https://doi.org/10.1007/s10633-012-9345-y;Excluded (2)
+BLASST: Band Limited Atomic Sampling With Spectral Tuning With Applications to Utility Line Noise Filtering;https://doi.org/10.1109/tbme.2016.2632119;Excluded (2)
+BOLD correlated of EEF alpha phase-locking and the fMRI default mode network;https://doi.org/10.1016/j.neuroimage.2009.01.001;Excluded (2)
+Can we hear ventricle dyssynchrony? Yes, we can;https://doi.org/10.1109/embc.2015.7319888;Excluded (1)
+Change In Response Time of Neuronal Populations With Noise, Synaptical Interactions and Stimulus Frequency;https://doi.org/10.1109/siu.2007.4298873;Excluded (2)
+Characterization of EMG time-frequency content during Parkinson walking: a pilot study;https://doi.org/10.1109/memea52024.2021.9478707;Included
+Classification of Brainwaves Using Convolutional Neural Netork;https://doi.org/10.23919/eusipco.2019.8902952;Excluded (1)
+Classification of hand direction using multi-channel electromyography by neural network;https://doi.org/10.1109/anziis.2001.974113;Excluded (2)
+Closed-Loop Control of Myoelectric Prostheses With Electrotactile Feedback: Influence of Stimulation Artifact and Blanking;https://doi.org/10.1109/tnsre.2014.2357175;Excluded (2)
+CMOS amplifier design for neuronal recording system;https://doi.org/10.1109/iccsp.2016.7754249;Excluded (1)
+CMOS-Based Multifrequency Impedance Analyzer for Biomedical Applications;https://doi.org/10.1109/tbcas.2018.2867172;Excluded (2)
+Comments on ``Is accurate recording of the ECG surface Laplacian feasible?'';https://doi.org/10.1109/10.918603;Excluded (2)
+Comparative study of Empirical Mode Decomposition applied in experimental biosignals;https://doi.org/10.1109/bibe.2008.4696768;Excluded (2)
+Comparative Study on Heart Rate Variability Analysis for Atrial Fibrillation Detection in Short Single-Lead ECG Recordings;https://doi.org/10.1109/embc.2018.8512345;Excluded (2)
+Comparison of Laplacian and bipolar ECGs for R-wave detection during noise;https://doi.org/10.1109/iembs.2006.259381;Included
+Comparison of methods for reducing residual noise in suprathreshold early auditory evoked potential registration;https://doi.org/10.1055/s-2007-996994;Included
+Comparison of Signal Processing Methods for Reducing Motion Artifacts in High-Density Electromyography During Human Locomotion;https://doi.org/10.1109/ojemb.2020.2999782;Excluded (2)
+Conductive Polymer Foam Surface Improves the Performance of a Capacitive;https://doi.org/10.1109/tbme.2012.2215032;Excluded (2)
+Contactless recognition of respiration phases using web camera;https://doi.org/10.1109/radioelek.2014.6828427;Excluded (2)
+Continuous ECG recording for freely moving patients;;Excluded (2)
+Contribution to Structural Intensity Tool : Application to the Cancellation of ECG Interference in Diaphragmatic EMG;https://doi.org/10.1109/iembs.2006.260795;Excluded (2)
+Convolutional Autoencoder With Sequential and Channel Attention for Robust ECG Signal Denoising With Edge Device Implementation;https://doi.org/10.1109/access.2025.3550949;Excluded (2)
+Critical analysis of the signal-averaged electrocardiogram. Improved identification of late potentials;https://doi.org/10.1161/01.cir.87.1.105;Excluded (2)
+Cyclostationary analysis of electromyographic signals; ISBN: 978-0-9928626-0-2;Excluded (2)
+Data compression for storage of resting ECGs digitized at 500 samples/second;No se encontró el DOI. PMID: 1562827;Excluded (2)
+Data Compression in Bain-Machine/Computer Interfaces;https://doi.org/10.1109/tbcas.2013.2258669;Excluded (1)
+Data-efficient hand motor imagery decoding in EEG-BCI by using Morlet wavelets \& Common Spatial Pattern algorithms;https://doi.org/10.1109/ner.2015.7146782;Excluded (2)
+Decoding Intra-Limb and Inter-Limb Kinematics During Treadmill Walking From Scalp Electroencephalographics (EEG) Signals;https://doi.org/10.1109/tnsre.2012.2188304;Excluded (2)
+Deep Learning Models for Denoising ECG Signals;https://doi.org/10.23919/eusipco.2019.8902833;Excluded (2)
+Deep Neural Network-Based Detction of Diaphragmatic EMG Activity: From Simulation to Clinical Data;https://doi.org/10.1109/embc58623.2025.11252619;Excluded (2)
+Delineation of cardiac late potentials using ensemble correlation;https://doi.org/10.1109/cic.1991.169129;Excluded (2)
+Denoising and QRS detection of ECG signals using Empirical Mode Decomposition;https://doi.org/10.1109/iccsp.2011.5739355;Excluded (2)
+Denoising of surface EMG with a modified Wiener filtering approach;https://doi.org/10.1016/j.jelekin.2009.02.003;Excluded (2)
+Design and development of low-cost EOG acquisition circuit for HMI application;https://doi.org/10.1109/spin.2015.7095398;Excluded (1)
+Design and implementation of a multiband digital filter using FPGA to extract the ECG signal in the presence of different interference signal;https://doi.org/10.1016/j.compbiomed.2015.03.034;Included
+Design of a Low-power ECG Detecting Circuit;https://doi.org/10.1109/icmsp53480.2021.9513348;Excluded (2)
+Design of a Low-Power Ground-Free Analog Front End for ECG Acquisition;https://doi.org/10.1109/tbcas.2023.3249742;Excluded (2)
+Design of a real time powerable low-cost multi-channel surface electromyography system to aid neuromuscular disorder and post stroke rehabilitation patients;https://doi.org/10.1109/embc44109.2020.9176058;Excluded (2)
+Design of digital FIR filter implemented with window techniques for reduction of power line interference from ECG signal;https://doi.org/10.1109/ic4.2015.7375535;Included
+Design of Energy-efficient Low-Noise Amplifier for Brain Computer Interface Neural Recording Applications;https://doi.org/10.1109/vlsisata65374.2025.11070090;Excluded (2)
+Design of Low Power \& Low Noise On-Chip BioAmplifier in Cooperation with Analog IC Synthesis at 130nm Skywater Technology;https://doi.org/10.1109/smacd58065.2023.10192202;Excluded (2)
+Detecting the Elusive P-Wave: A New ECG Lead to Improve the Recording of Atrial Activity;https://doi.org/10.1109/tbme.2015.2450212;Included
+Detection of End of T-wave in Fetal ECG Using Recurrence Plots;https://doi.org/10.1109/embc.2019.8856737;Included
+Detection of late potentials on the averaged QRS signal recorded at rest and during a standardized stress test after acute myocardial infarction;https://doi.org/10.1016/0022-0736(90)90090-o;Excluded (2)
+Determination of dominant simulated spindle frequency with different methods;https://doi.org/10.1016/j.jneumeth.2006.01.013;Excluded (2)
+Development of a compact-size and wireless surface EMG measurement system;ISBN: 978-4-907764-34-0;Included
+Development of a Printed Circuit Board for Electromygraphic Signal Acquisition;https://doi.org/10.1109/cros66186.2025.11064865;Included
+Development of a software module for feature extraction and classification of EMG signals;https://doi.org/10.1109/ccintels.2015.7437917;Excluded (2)
+Digitally filtered ECG signal using low-cost microcontroller;https://doi.org/10.1109/codit.2013.6689554;Excluded (2)
+Digitization of Electrocardiogram From Telemetry Prior to In-hospital Cardiac Arrest: A Pilot Study;https://doi.org/10.1177/1099800415602092;Included
+Direct bone conduction stimulation: Ipsilateral effect of different tansfucer attachments in active transcutaneous devices;https://doi.org/10.1016/j.heares.2018.01.007;Excluded (1)
+Discrete Wavelet Transform based Pain Assessment using Multiple Physiological Signals;https://doi.org/10.1109/iceeict53079.2022.9768545;Excluded (2)
+DSP-based Electrical Impedance Tomography Device: Implementation and Experiments;https://doi.org/10.1109/i2mtc62753.2025.11079140;Excluded (1)
+Durability Design and Construction Enhancement of Textile Electrode Shape on Analysis of Its Surface Electromyography Signal;https://doi.org/10.1109/lsens.2024.3458906;Excluded (2)
+Dynamics of high frequency brain activity;https://doi.org/10.1038/s41598-017-15966-6;Included
+ECG Arrhythmia Classification on an Ultra-Low-Power Microcontroller;https://doi.org/10.1109/tbcas.2022.3182159;Excluded (2)
+ECG Atrial Fibrillation Signal Classification Method Based on Discrete Wavelet Transform (DWT) and DenseNet-121;https://doi.org/10.1109/icscc62041.2024.10690792;Excluded (2)
+ECG Data Compression Analysis by Employing Different Transforms in Orthogonal Transformation Technique;https://doi.org/10.1109/icecsp61809.2024.10698586;Excluded (2)
+ECG sensor interface in a low power SoC for wireless portable ECG monitoring;https://doi.org/10.1109/biocas.2014.6981667;Excluded (2)
+EEG Channel Localization and Selection via Training with Noise Injection for BCI Applications;https://doi.org/10.1109/embc53108.2024.10782774;Excluded (2)
+EEG control method for fire extinguishing UAV based on improved subband filter bank;https://doi.org/10.1109/icus48101.2019.8996072;Excluded (2)
+EEG signal cleaning for drowsiness detection;https://doi.org/10.1109/iceit48248.2020.9113175;Excluded (2)
+EEG Windowed Statisticalwavelet Deviation for Estimation of Muscular Artifacts;https://doi.org/10.1109/icassp.2007.367281;Excluded (2)
+Effectiveness of Reference Signal-Based Methods for Removal of EEG Artifacts Due to Subtle Movements During fMRI Scanning;https://doi.org/10.1109/tbme.2016.2602038;Excluded (2)
+Effect of sampling frequency on EMG power spectral characteristics;PMID: 8045247;Included
+Effect of Time and Frequency Windows in Analyzing the Muscle Typology of Adductor Pollicis and Triceps Brachii Muscles Using Surface EMG Signals and Smoothed Pseudo-Wigner-Ville Distribution;https://doi.org/10.1109/etis64005.2025.10961367;Excluded (2)
+Efficient combination of DWT and ICA to localize and remove ECG from surface electromyography measurement;https://doi.org/10.1109/icdsp.2013.6622713;Excluded (2)
+Electrical Rhythms Revealed by Harmonic Analysis of a High-Resolution Cardiogram;https://doi.org/10.1007/s10517-015-2877-x;Included
+Electrode fusion for the prediction of self-initiated fine movements from single-trial readiness potentials;https://doi.org/10.1142/s0129065715500148;Excluded (1)
+Electrode Placement Strategy for the Flexor Carpi Radialis Based on sEMG Signal Quality;https://doi.org/10.1109/icus66297.2025.11294110;Excluded (2)
+Electroencephalogram Signal Denoising in Individual Cognitive Ability Measurement Using Independent Component Analysis;https://doi.org/10.1109/apwimob59963.2023.10365633;Excluded (2)
+Electromyogram signal processing by using M-transform;https://doi.org/10.1109/iccas.2008.4694264;Excluded (2)
+Electroseismocardiography System for Non-Invasive Human Diseases Diagnosis;https://doi.org/10.23919/icins.2019.8769388;Excluded (2)
+Elimination of Ocular Artifacts from EEG signals using the wavelet transform and empirical mode decomposition;https://doi.org/10.1109/ecticon.2009.5137235;Included
+EMG power spectrum shifts of biceps brachii when acting as an antagonist;https://doi.org/10.1109/iembs.1995.579716;Included
+Emotional Response Analysis Using Electrodermal Activity, Electrocardiogram and Eye Tracking Signals in Drivers With Various Car Setups;https://doi.org/10.23919/eusipco47968.2020.9287446;Excluded (2)
+Emotion Detection from QRS Complex of ECG Signals Using Hurst Exponent for Different Age Groups;https://doi.org/10.1109/acii.2013.159;Excluded (2)
+Emotion recognition from single-channel EEG signals using a two-stage correlation and instantaneous frequency-based filtering method;https://doi.org/10.1016/j.cmpb.2019.03.015;Excluded (2)
+Empowering healthcare: Secure hand gesture authentication in medical IoT with sEMG;https://doi.org/10.1177/03913988251370224;Included
+Enhanced EEG Signal Spectral Visualization for Imagined Speech Task Prediction;https://doi.org/10.1109/icccnt61001.2024.10725791;Excluded (2)
+Epileptogenic Source Imaging Using Cross-Frequency Coupled Signals From Scalp EEG;https://doi.org/10.1109/tbme.2016.2613936;Excluded (2)
+ESAD: Expert System for Apnea Detection Using Enhanced DWT Feature Extraction and Machine Learning Algorithms;https://doi.org/10.1109/icccnt56998.2023.10308057;Included
+Essential constraints for detecting deep sources in EEG - application in orthostatic tremor;https://doi.org/10.1109/cisp.2011.6100737;Excluded (2)
+Estimation and application of EMG amplitude during dynamic contractions;https://doi.org/10.1109/51.982275;Excluded (2)
+Estimation of Time-Varying Spectral Peaks and Decomposition of EEG Spectrograms;https://doi.org/10.1109/access.2020.3042737;Included
+Evaluation measures for adaptive PLI filters in ECG signal processing;https://doi.org/10.1109/cic.2007.4745539;Excluded (2)
+Evaluation of hand Gesture Classification Based on Motor Units Activtion for Prosthetic Application;https://doi.org/10.1109/embc58623.2025.11253221;Included
+Evaluation of Novel Embroidered Textile-Electrodes Made from Hybrid Polyamide Conductive Threads for Surface EMG Sensing;https://doi.org/10.3390/s23094397;Included
+Evaluation of the low-frequency components in surface electromyography;https://doi.org/10.1109/embc.2016.7591512;Included
+Fatigue Detection in SSVEP-BCIs Based on Wavelet Entropy of EEG;https://doi.org/10.1109/access.2021.3100478;Included
+Fetal ECG denoising using Adaptive Thresholding and Extended kalman filter With Dynamic Time Warping;https://doi.org/10.1109/icaccs48705.2020.9074342;Excluded (2)
+Fetal QRS detection and RR interval measurement in noninvasively registered abdominal ECGs;ISBN: 978-1-4799-0886-8;Excluded (2)
+Filter Bank Property of Multivariate Empirical Mode Decomposition;https://doi.org/10.1109/tsp.2011.2106779;Excluded (2)
+Fitting autoregressive models to EEG time series: An empirical comparison of estimates of the order;https://doi.org/10.1109/tassp.1985.1164537;Excluded (2)
+Flexible Multimodal Tactile Sensor for Contactless Vital Sign Monitoring;https://doi.org/10.1109/fleps65444.2025.11105599;Excluded (1)
+Frequency content of the QRS notching in high-fidelity canine ECG;https://doi.org/10.1016/0010-4809(89)90011-6;Included
+Frequency Tracking of Atrial Fibrillation using Hidden Markov Models;https://doi.org/10.1109/iembs.2006.259677;Excluded (2)
+From spikes to EEG: Integrated multichannel and selective acquisition of neuropotentials;https://doi.org/10.1109/iembs.2008.4649769;Excluded (2)
+Fuzzy Divergence Based Analysis for Eeg Drowsiness Detection Brain Computer Interfaces;https://doi.org/10.1109/fuzz48607.2020.9177833;Excluded (2)
+Global field synchronization in gamma range of the sleep EEG tracks sleep depth: Artifacts introduced by a rectangular analysis window;https://doi.org/10.1016/j.jneumeth.2017.04.002;Included
+Good practices in EEG-MRI: the utility of retrospective synchronization and PCA for the removal of MRI gradient artefacts;https://doi.org/10.1016/j.neuroimage.2009.10.050;Excluded (2)
+Handheld Wireless ECG Recording System Based on Printed Metal-Plate Electrodes for Personalized Healthcare;https://doi.org/10.1109/icta53157.2021.9661760;Excluded (2)
+Hardware-Oriented Memory-Limited Online Artifact Subspace Reconstruction (HMO-ASR) Algorithm;https://doi.org/10.1109/tcsii.2021.3124253;Excluded (2)
+HermesB: A Continuous Neural Recording System for Freely Behaving Primates;https://doi.org/10.1109/tbme.2007.895753;Included
+High frequency ECG during acute myocardial ischemia;https://doi.org/10.1109/cic.1997.647920;Included
+High resolution EEG and whole head MEG;https://doi.org/10.1515/bmte.2002.47.s1b.564;Included
+High Signal-to-Noise Ratio Phonocardiogram using a Shielded PVDF Film Sensor;https://doi.org/10.1109/tla.2016.7459591;Excluded (1)
+Hybrid Integrated Wearable Patch for Brain EEG-fNIRS Monitoring;https://doi.org/10.3390/s24154847;Excluded (2)
+HyperQ - New Horizons in Myocardial Ischemia Detection;https://doi.org/10.1109/itre.2006.381531;Included
+Impact of Noise on Deep Learning-Based Pseudo-Online Gesture Recognition with High-Density EMG;https://doi.org/10.1109/embc58623.2025.11254719;Included
+Implantable Cardiovascular Biopotential Acquisition and Stimulation Circuit With Body-Channel Communication for Transcatheter Leadless Pacemaker;https://doi.org/10.1109/tbcas.2025.3579065;Excluded (2)
+Implantable multichannel wireless electromyography for prosthesis control;https://doi.org/10.1109/embc.2012.6346188;Excluded (2)
+Improved peaks automatic detection algorithm of noisy quasi-periodic physiological signals;https://doi.org/10.1088/2057-1976/ae12f9;Excluded (2)
+Improvement in Neural Respiratory Drive Estimation From Diaphragm Electromyographic Signals Using Fixed Sample Entropy;https://doi.org/10.1109/jbhi.2015.2398934;Included
+Improving mental task classification by adding high frequency band information;https://doi.org/10.1007/s10916-008-9215-z;Included
+Improving the quality of combined EEG-TMS neural recordings: Introducing the coil spacer;https://doi.org/10.1016/j.jneumeth.2017.11.001;Included
+Impulse rejection filter for artifact removal in spectral analysis of biomedical signals;https://doi.org/10.1109/iembs.2004.1403112;Excluded (1)
+Increased Gamma Brainwave Amplitude Compared to Control in Three Different Meditation Traditions;https://doi.org/10.1371/journal.pone.0170647;Included
+Independent vector analysis for SSVEP signal enhancement;https://doi.org/10.1109/ciss.2015.7086864;Excluded (2)
+Influence of the sinusoidal and Gaussian noises in the estimation of the EEG fractal dimension;ISBN: 978-888-6179-83-6;Excluded (2)
+Integration of Amplitude and Phase Statistics for Complete Artifact Removal in Independent Components of Neuromagnetic Recordings;https://doi.org/10.1109/tbme.2008.926677;Excluded (1)
+Intelligent Service for Hybrid Analysis of Continuous Mental Processes Based on EEG and Video Data;https://doi.org/10.23919/fruct60429.2023.10328175;Included
+Iterative Adaptive Approach for Respiratory Estimation Using SISO, SIMO and MIMO Radars;https://doi.org/10.23919/irs64527.2025.11046063;Excluded (1)
+Local field potential measurement with low-power area-efficient neural recording amplifier;https://doi.org/10.1109/spices.2015.7091507;Excluded (1)
+Localization of an Inert Region in the Brain using Modified Levenberg Marquarts Neural Network;https://doi.org/10.1109/iembs.2007.4353237;Included
+Low-Cost and Low-Complexity Electrocardiogram Signal Recorder Design Based on Arduino Platform;https://doi.org/10.1109/iih-msp.2014.83;Excluded (2)
+Low-Frequency Noise and Offset Rejection in DC-Coupled Neural Amplifiers: A Review and Digitally-Assistd Design Tutorial;https://doi.org/10.1109/tbcas.2016.2539518;Excluded (2)
+Machine Learning-Based Gesture Classification Using Hybrid EMG and MMG Signals for Upper Limb Prostheses;https://doi.org/10.1109/iccr67387.2025.11291739;Included
+Maximum likelihood analysis of late potentials;https://doi.org/10.1109/cic.1992.269445;Excluded (2)
+Measuring the cortical correlation structure of spontaneous oscillatory activity with EEG and MEG;https://doi.org/10.1016/j.neuroimage.2016.01.055;Included
+Medical Data Over Sound - HealthTalk Concept;https://doi.org/10.1109/meco66322.2025.11049300;Excluded (2)
+MEMD-enhanced multivariate fuzzy entropy for the evaluation of complexity in biomedical signals;https://doi.org/10.1109/embc.2016.7591546;Excluded (2)
+Micropower CMOS Integrated Low-Noise Amplification, Filtering, and Digitization of Multimodal Neuropotentials;https://doi.org/10.1109/tbcas.2008.2005297;Excluded (2)
+Mitigation of Motion Artifacts in Pulse Oximetry through Redundant Sensors;https://doi.org/10.23919/spa53010.2022.9927970;Excluded (1)
+Modeling of EXG (ECG, EMG and EEG) non-idealities using MATLAB;https://doi.org/10.1109/cisp-bmei.2016.7852968;Excluded (2)
+Motion artifacts extraction using dwt from ambulatory ECG (A-ECG);https://doi.org/10.1109/iccsp.2014.6950112;Included
+MUAP extraction and classification based on wavelet transform and ICA for EMG decomposition;https://doi.org/10.1007/s11517-006-0051-3;Included
+Multi-Frequency Impedance Myography: The PhaseX Effect;https://doi.org/10.1109/jsen.2020.3022899;Excluded (1)
+Multilead Analysis of T-Wave Alternans in the ECG Using Principal Component Analysis;https://doi.org/10.1109/tbme.2009.2015935;Excluded (2)
+Multi-level basis selection of wavelet packet decomposition tree for heart sound classification;https://doi.org/10.1016/j.compbiomed.2013.06.016;Excluded (2)
+Multireference adaptive noise canceling applied to the EEG;https://doi.org/10.1109/10.605438;Excluded (2)
+Myoelectric Control of a Robotic Manipulator Using Processed Electromyography Signals;https://doi.org/10.1109/eesp64500.2024.00010;Excluded (2)
+Nanofiber Web Textile Dry Electrodes for Long-Term Biopotential Recording;https://doi.org/10.1109/tbcas.2012.2201154;Excluded (1)
+Neural Recording Stability of Chronic Electrode Arrays in Freely Behaving Primates;https://doi.org/10.1109/iembs.2006.260814;Included
+New Technology for Intelligent Analysis of Physiological Data for the Development of Medical Applications in Psychiatry;https://doi.org/10.1109/itnt60778.2024.10582326;Excluded (2)
+Noise resilience through band-limitation in signal regression analysis;ISBN: 978-953-184-159-7;Excluded (2)
+Noninvasive Measurement of Physiological Signals on a Modified Home Bathroom Scale;https://doi.org/10.1109/tbme.2012.2186809;Excluded (2)
+Novel brick-wall filters based on the auditory system;https://doi.org/10.1109/icassp.1998.679670;Excluded (1)
+Objective response detection in an electroencephalogram during somatosensory stimulation;https://doi.org/10.1114/1.1305530;Included
+On the Stability of the n:m Phase Synchronization Index;https://doi.org/10.1109/tbme.2010.2063028;Excluded (2)
+Optimal EMG amplitude detectors for muscle-computer interface;https://doi.org/10.1109/ecticon.2013.6559485;Included
+Optimal Estimation of EMG Standard Deviation (EMG $\sigma$) in Additive Measurement Noise: Model-Based Derivations and Their Implications;https://doi.org/10.1109/tnsre.2019.2951081;Included
+Optimal Estimation of EMG Standard Deviation (EMG$\sigma$) in Additive Measurement Noise: Model-Based Derivations and Their Implications;;(Duplicate)
+Optimal filtering and quality control of the signal-averaged ECG. High-fidelity 1-minute recordings;PMID: 7867191;Excluded (2)
+Optimal imaging of cortico-muscular coherence through a novel regression technique based on multi-channel EEG and un-rectified EMG;https://doi.org/10.1016/j.neuroimage.2011.04.071;Included
+Optimization of Data Quality Related EMG Feature Extraction Parameters to Increase Hand Movement Classification Accuracy;https://doi.org/10.1109/embc46164.2021.9629824;Included
+Optimized Filtering and Posture Analysis for Noise Reduction in BCG-Based Heart Rate Monitoring;https://doi.org/10.1109/icce63647.2025.10929984;Excluded (1)
+Optimizing signal averaging methods;https://doi.org/10.1109/iembs.1989.95550;Excluded (2)
+Parallel Acceleration on Removal of Optical Mapping Baseline Wandering;https://doi.org/10.22489/cinc.2019.433;Excluded (1)
+Parametric modelling of cardiac systm multiple measurement signal: an open-source computer framework for performance evaluation of ECG, PCG and ABP event detectors;https://doi.org/10.3109/03091902.2011.645945;Excluded (2)
+Parametric Sparse Coding of Brain Connectivity Graph Signals for Schizophrenic EEG data;https://doi.org/10.1109/icccnt61001.2024.10725230;Excluded (2)
+Performance analysis of FIR and IIR filters for ECG signal denoising based on SNR;https://doi.org/10.1109/icrcicn.2017.8234487;Excluded (2)
+Performance analysis of Welch and Blackman Nuttall window for noise reduction of ECG;https://doi.org/10.1109/ispcc.2015.7375003;Excluded (2)
+Performance comparison of IST and multi scale principal component analysis in the EEG signal processing;https://doi.org/10.1109/iccmc.2017.8282523;Included
+Performance evaluation of algorithms for later potentials detection: a simulated study;https://doi.org/10.1109/cic.1988.72655;Excluded (2)
+Performance Evaluation of QT-R Adaptation Time Lag Estimation in Exercise Stress Testing;https://doi.org/10.1109/tbme.2024.3410008;Excluded (2)
+Performance of three electromyogram decomposition algorithms as a function of signal to noise ratio: Assessment with experimental and simulated data;https://doi.org/10.1109/spmb.2014.7002963;Excluded (2)
+Power feasibility of implantable digital spike sorting circuits for neural prosthetic systems;https://doi.org/10.1109/tnsre.2005.854307;Excluded (2)
+Prediction of Cerebral Palsy in Newborns With Hypoxic-Ischemic Encephalopathy Using Multivariate EEG Analysis and Machine Learning;https://doi.org/10.1109/access.2021.3118076;Included
+Principal component model for maternal ECG extraction in fetal QRS detection;https://doi.org/10.1088/0967-3334/35/8/1637;Excluded (2)
+Probability density of the surface electromyogram and its relation to amplitude detectors;https://doi.org/10.1109/10.764949;Included
+Procedure for Removing Artifacts from EMG Signals Envelope Assuming CMN;https://doi.org/10.1109/iceee.2019.8884527;Excluded (2)
+Processing of EEG Signal for Classification of Epilepsy;https://doi.org/10.1109/iccsp48568.2020.9182271;Excluded (2)
+Properties of rectified averaging of an evoked-type signal: theory and application to the vestibular-evoked myogenic potential;https://doi.org/10.1007/s00221-009-1993-0;Included
+P wave signal-averaged ECG in normal population and in patients with converted atrial fibrillation;https://doi.org/10.1111/j.1542-474x.2011.00462.x;Excluded (2)
+Quality Assessment of ECG Signals Based on Support Vector Machines and Binary Decision Trees;https://doi.org/10.1109/siu49456.2020.9302262;Excluded (2)
+Quality evaluation of wavelet functions for myopulse suppression in electrocardiogram;https://doi.org/10.1109/scopes.2016.7955630;Included
+Random forest based feature ranking to evaluate the effect of motion artifact on different clinical features of PPG Signal;https://doi.org/10.1109/iciscois56541.2023.10100487;Excluded (1)
+Real Time Cardiac Monitoring and Disease Prediction Using Digital Stethoscope;https://doi.org/10.1109/icetea64585.2025.11099789;Excluded (1)
+Real-time monitoring of the heart conditions via electrocardiogram processing at different lifestyle situations;https://doi.org/10.1109/icaee.2017.8255416;Included
+Real-Time Stimulus Artifact Rejection Via Template Subtraction;https://doi.org/10.1109/tbcas.2013.2274574;Excluded (1)
+Real-Time Task Discrimination for Myoelectric Control Employing Task-Specific Muscle Synergies;https://doi.org/10.1109/tnsre.2015.2410176;Excluded (2)
+Recording human electrocorticographic (ECoG) signals for neuroscientific research and real-time functional cortical mapping;https://doi.org/10.3791/3993;Excluded (1)
+Reduction of CPR artifacts in the ventricular fibrillation ECG by coherent line removal;https://doi.org/10.1186/1475-925x-9-2;Included
+Remote R-Peak Detection in Single-Lead ECG Chest Monitors Using Clustering Classification and Laser-Induced Graphene Electrodes;https://doi.org/10.1109/jflex.2025.3586821;Included
+Removal of CPR Artifacts From the Ventricular Fibrillation ECG by Adaptive Regression on Lagged Reference Signals;https://doi.org/10.1109/tbme.2007.902235;Included
+Removal of Noises from an ECG Signal Using an Adaptive S-Median Thresholding Technique;https://doi.org/10.1109/aspcon49795.2020.9276706;Excluded (2)
+Removal of ocular artifacts in EEG signals measured in a neuroeconomics experiment;https://doi.org/10.1109/siu.2017.7960675;Included
+Revealing the dynamic correlation between neural and muscular signals using time-dependent granger causality analysis;https://doi.org/10.1049/ic:20050339;Excluded (2)
+Revisiting QRS detection methodologies for portable, wearable, battery-operated, and wireless ECG systems;https://doi.org/10.1371/journal.pone.0084018;Excluded (2)
+Rhythmic component extraction for multi-channel EEG data analysis;https://doi.org/10.1109/icassp.2008.4517637;Excluded (2)
+Robust algorithm for objective hearing screening of newborns using Automated Auditory Brain-stem Response;https://doi.org/10.1109/mercon.2016.7480131;Excluded (1)
+Sampling frequency of the electrocardiogram for spectral analysis of the heart rate variability;https://doi.org/10.1109/10.43621;Excluded (2)
+Scale selection technique for heartbeat detection algorithm;https://doi.org/10.1109/ssd.2017.8166996;Excluded (2)
+Self-paced BCI using multiple SWT-based classifiers;https://doi.org/10.1109/iembs.2008.4649606;Excluded (1)
+Separation of electrocardiographic from electromyographic signals using dynamic filtration;https://doi.org/10.1016/j.medengphy.2018.04.007;Included
+Separation of Physiological Signals Using Minimum Norm Projection Operators;https://doi.org/10.1109/tbme.2016.2582643;Excluded (2)
+Signal analysis of electromyogram by artificial neural network;https://doi.org/10.1109/sipnn.1994.344856&;Excluded (2)
+Signal conditioning techniques for health monitoring devices;https://doi.org/10.1109/tsp.2012.6256369;Excluded (2)
+Signal quality and false myocardial ischemia alarms in ambulatory electrocardiograms;https://doi.org/10.1109/memea.2014.6860078;Excluded (2)
+Signal strength in nerve cuff electrode recordings;https://doi.org/10.1109/iembs.2001.1019041;Included
+Small-Dimension Feature Matrix Construction Method for Decoding Repetitive Finger Movements From Electroencephalogram Signals;https://doi.org/10.1109/access.2020.2982210;Excluded (2)
+SMANet: A Model Combining SincNet, Multi-Branch Spatial-Temporal CNN, and Attention Mechanism for Motor Imagery BCI;https://doi.org/10.1109/tnsre.2025.3560993;Excluded (2)
+Some limitations of localizing inert region from eeg;ISBN: 978-981-05-79;Included
+Subtraction of 16.67 Hz railroad net interference from the electrocardiogram: application for automatic external defibrillators;https://doi.org/10.1088/0967-3334/26/6/009;Included
+Surface electromyography as a tool to assess the responses of car passengers to lateral accelerations. Part II: Objective comparison of vehicles;https://doi.org/10.1016/j.jelekin.2005.11.011;Included
+Surface EMG and spatial resolution analysis with estimation of electromyographic descriptors;https://doi.org/10.1109/iembs.2008.4650274;Included
+Surrogate-Based Artifact Removal From Single-Channel EEG;https://doi.org/10.1109/tnsre.2018.2794184;Excluded (1)
+Testing the Significance of Connectivity Networks: Comparison of Different Assessing Procedures;https://doi.org/10.1109/tbme.2016.2621668;Excluded (2)
+Textile-structured human body surface biopotential signal acquisition electrode;https://doi.org/10.1109/cisp.2011.6100739;Excluded (2)
+The corner frequencies of the ECG amplifier for heart rate variability analysis;https://doi.org/10.1088/0967-3334/26/1/004;Excluded (2)
+The design of CMOS general-purpose analog front-end circuit with tunable gain and bandwidth for biopotential signal recording systems;https://doi.org/10.1109/iembs.2011.6091185;Excluded (2)
+The effect of artifact correction on spectral estimates of heart rate variability;https://doi.org/10.1109/iembs.2008.4649751;Included
+The effect of linear mixing in the EEG on Hurst exponent estimation;https://doi.org/10.1016/j.neuroimage.2014.05.041;Included
+The impact of head movements on EEG and contact impedance: An adaptive filtering solution for motion artifact reduction;https://doi.org/10.1109/embc.2014.6944763;Included
+The interpretation of abdominal wall muscle recruitment strategies change then the electrocardiogram (ECG) is removed from the electromyogram (EMG);https://doi.org/10.1016/j.jelekin.2007.10.004;Excluded (2)
+Toward Completely Sampled Extracellular Neural Recording During fMRI;https://doi.org/10.1109/tmi.2022.3149002;Excluded (2)
+Towards a Self-Powered ECG and PPG Sensing WEarable Device;https://doi.org/10.1109/embc46164.2021.9631062;Excluded (2)
+Transient encephalographic alpha power loss during maintenance of general anaesthesia;https://doi.org/10.1016/j.bja.2018.11.029;Included
+Two Methods for Optimal MECG Elimination and FECG Detection from Skin Electrode Signals;https://doi.org/10.1109/tbme.1987.325949;Excluded (2)
+Two-Wired Current Modulator Active Electrode for Ambulatory Biosignal Recording;https://doi.org/10.1109/tbcas.2018.2888996;Excluded (2)
+ Use of a power law scaling relationship to analyze signal averaged ECGs;https://doi.org/10.1109/cic.1990.144229;Excluded (2)
+Use of time-frequency representations to enhance the signal-to-noise ratio of the signal-averaged ECG;https://doi.org/10.1109/cic.1992.269510;Excluded (2)
+Using Component Synchrony Measure for somatosensory evoked potential detection;https://doi.org/10.1109/iembs.2006.260034;Included
+Variational mode decomposition based ECG denoising using non-local means and wavelet domain filtering;https://doi.org/10.1007/s13246-018-0685-0;Excluded (2)
+Very Low-Noise ENG Amplifier System Using CMOS Technology;https://doi.org/10.1109/tnsre.2006.886731;Excluded (1)
+Wavelet-Based Assessment of the Muscle-Activation Frequency Range by EMG Analysis;https://doi.org/10.1109/access.2022.3141162;Included
+Wavelet Thresholding Using GWO Optimization for EEG Denoising;https://doi.org/10.1109/ictest60614.2024.10576110;Included
+Wearable Sensors for Frequency-Multiplexed EIT and Multilead ECG Data Acquisition;https://doi.org/10.1109/tbme.2018.2857199;Excluded (2)
